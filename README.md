@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 <img align = "left" width = 50% height = 250px src = "https://github-readme-stats.vercel.app/api?username=RumethSandinu&show_icons=true&theme=transparent" />
-
 <img align = "right" width = 40% height = 250px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RumethSandinu&layout=compact&theme=transparent" />
 
 <!--
