@@ -9,7 +9,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href = "https://www.linkedin.com/in/rumeth-sandinu-652b30263/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://www.linkedin.com/in/rumeth-sandinu-652b30263"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## Views and Followers 💕
