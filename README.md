@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm Rumeth Sandinu 👨🏻‍💻
-
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 👯 I’m looking to collaborate on machine learning and deep learning projects
 - 📫 How to reach me: sandinu413@gmail.com
