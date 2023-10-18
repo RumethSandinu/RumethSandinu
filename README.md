@@ -19,3 +19,5 @@
 <a href="https://github.com/rumethsandinu?tab=followers">
   <img src="https://img.shields.io/github/followers/rumethsandinu?label=Followers&style=social" alt="GitHub Badge">
 </a>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rumethsandinu.visitor-badge)
