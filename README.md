@@ -33,7 +33,7 @@
     <br/>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,r,java,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,r,java,mysql,js,html,css" />
   </a>
 </p>
 </div>
