@@ -3,12 +3,11 @@
 
 <!--Typing SVG-->
 <h1 align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4078C0&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Rumeth+Sandinu!" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Rumeth+Sandinu!" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
-  🌱 I’m currently learning deep learning
+  🌱 I’m currently learning RNN
 <br/>
   👯 I’m looking to collaborate on machine learning projects
 </div>
@@ -27,19 +26,31 @@
 
 
 <hr/>
+<div>
   <h1 align = "center">
     Languages and Frameworks
-
-
-
-
-    
   </h1>
+    <br/>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,r,java,js,html,css" />
+  </a>
+</p>
+</div>
+<hr>
 
-  
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=rumethsandinu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rumethsandinu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rumethsandinu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
 <hr/>
-
-<img align = "left" width = 50% height = 250px src = "https://github-readme-stats.vercel.app/api?username=RumethSandinu&show_icons=true&theme=transparent" />
-<img align = "right" width = 40% height = 250px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RumethSandinu&layout=compact&theme=transparent" />
-
+<h2 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+%3A)" alt="Typing SVG" /></a>
+</h2>
