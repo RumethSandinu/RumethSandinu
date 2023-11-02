@@ -8,8 +8,10 @@
 
 <div align="center">
   🌱 I’m currently learning RNN
-<br/>
+  <br/>
   👯 I’m looking to collaborate on machine learning projects
+  <br/>
+  😸 Fun fact : Trying to keep a virtual copy of mine before I die
 </div>
 
 <br/>
