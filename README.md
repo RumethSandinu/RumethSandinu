@@ -1,19 +1,18 @@
-<!--Visitors badge-->
-<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=rumethsandinu.rumethsandinu">
-
+<div>
 <!--Typing SVG-->
 <h1 align = "center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=3080f7&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Rumeth+Sandinu!" alt="Typing SVG" /></a>
 </h1>
+</div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Your GIF" width="400" height="auto">
+  <br/>
   🌱 I’m currently learning Deep Learning
   <br/>
   👯 I’m looking to collaborate on machine learning projects
   <br/>
   😸 Fun fact : Trying to keep a virtual copy of mine before I die
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Your GIF" width="400" height="auto">
 </div>
 
 
@@ -44,7 +43,7 @@
     <br/>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,r,c,java,mysql,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,java,mysql,cpp,js,html,css,r" />
   </a>
 </p>
 </div>
