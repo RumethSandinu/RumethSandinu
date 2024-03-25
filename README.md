@@ -10,7 +10,7 @@
   <br/>
   🌱 I’m currently learning Transformer Architecture
   <br/>
-  👯 I’m looking to collaborate on Deep Learning projects
+  👯 I’m looking to collaborate on Machine Leanrning and Deep Learning projects
   <br/>
   😸 Fun fact : Trying to keep a virtual copy of mine before I die
 </div>
@@ -34,22 +34,32 @@
     <img src = "https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
 </div>
 
-
-<hr/>
-<div>
-  <h1 align = "center">
-    Languages and Frameworks
+## Languages and Frameworks :
   </h1>
     <br/>
-    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,flask,java,mysql,cpp,js,html,css" />
   </a>
-</p>
-</div>
-<br/>
 
-<hr/>
+## 🔥 Stats :
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+      
+   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=RumethSandinu&theme=tokyonight) </td>
+     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumethSandinu&theme=tokyonight&layout=compact)](https://github.com/RumethSandinu)</td>
+   </tr>
+  </table>
+
+  ## :chart_with_upwards_trend: Activity :
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RumethSandinu&bg_color=121212&color=800cb6&line=800cb6&point=800cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <h2 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&color=3080f7&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+%3A)" alt="Typing SVG" /></a>
 </h2>
+
+
+
+
+
